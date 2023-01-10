@@ -1,0 +1,26 @@
+# Built using https://d3ward.github.io/toolz/adblock.html
+
+# Ads
+https://analyticsengine.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://amazonaax.com
+https://amazonclix.com
+
+# Analytics
+https://freshmarketer.com/
+
+# Error Trackers
+https://browser.sentry-cdn.com
+
+# Social Trackers
+https://widgets.pinterest.com
+https://d.reddit.com
+
+# OEM
+https://metrics.data.hicloud.com
+https://metrics1.data.hicloud.com
+https://metrics2.data.hicloud.com
+https://metrics3.data.hicloud.com
+https://metrics4.data.hicloud.com
+https://metrics5.data.hicloud.com
